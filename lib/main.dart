@@ -50,7 +50,6 @@ class _PerguntaAppState extends State<PerguntaApp> {
       });
     }
 
-    print('teste');
   }
 
   void reiniciarQuestionario() {
